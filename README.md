@@ -49,8 +49,7 @@ This project uses:
   - Place the project folder inside your web server’s root directory (e.g., htdocs for XAMPP).
 - Visit: http://localhost/judging-system/ in your browser.
 
-> This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-   
+
 - **Database Schema**  
 `-- Judges Table
 CREATE TABLE judges (
